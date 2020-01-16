@@ -1,0 +1,48 @@
+body {
+    background-color: bisque;
+}
+
+.fixed {
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    padding: 60px;
+    margin: 0px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+
+.wrapper {
+    width: 820px;
+    margin: 0 auto 0 auto;
+    padding: 0px;
+}
+
+.relative {
+    position: relative;
+    background-color: teal;
+    color: white;
+    font-size: 30px;
+    padding: 70px;
+    text-align: center;
+}
+
+.absolute {
+    background-color: tomato;
+    position: absolute;
+    padding: 40px;
+    bottom: 0;
+    right: -20px;
+    font-size: 20px;
+}
+
+p {
+    font-size: 18px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1 {}
